@@ -1,1 +1,6 @@
 cambio generado por el desarrollador andres
+
+añadir lista de tareas:
+
+1. comprar leche
+2.comprar pan

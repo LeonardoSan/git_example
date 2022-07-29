@@ -4,3 +4,5 @@ añadir lista de tareas:
 
 1. comprar leche
 2.comprar pan
+3. comprar carne
+4. ir a la tienda
